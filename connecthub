@@ -1,8 +1,8 @@
 if game.placeId == 2248408710 then -- Destruction Simulator
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/poorg2/poorg2scripthub/main/destructionsimulator"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/poorg2/shortener/main/destructionsimulator"))()
 
 elseif  game.placeId == 4956876523 then -- Blending Simulator
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/poorg2/poorg2scripthub/main/blendsimMAIN"))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/poorg2/shortener/main/blendsimulator"))()
     
 else
  game.Players.LocalPlayer:Kick("Sorry, Poorg2's ScriptHub didn't support this game.")
