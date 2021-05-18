@@ -1,0 +1,11 @@
+if game.placeId == (gameId) then -- Game Name
+    loadstring(game:HttpGet("https:// RAW githubusercontent link"))()
+
+elseif  game.placeId == (gameId)  then -- Game Name
+     loadstring(game:HttpGet("https:// RAW githubusercontent link""))()
+    
+else
+ game.Players.LocalPlayer:Kick("Sorry, Poorg2's ScriptHub didn't support this game.")
+end
+
+-- Script Connection in Progress!
